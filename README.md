@@ -6,6 +6,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
+| [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivanshrathii-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -20,5 +21,14 @@
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
