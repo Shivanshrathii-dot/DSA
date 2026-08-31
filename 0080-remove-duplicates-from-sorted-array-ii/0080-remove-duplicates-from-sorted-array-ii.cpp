@@ -12,13 +12,24 @@ public:
         // return nums.size();
 
 
-        int j=0;
-        for(int i=0;i<nums.size();i++){
-            if(j<2 || nums[i] != nums[j-2]){
-                nums[j]=nums[i];
+        // int j=0;
+        // for(int i=0;i<nums.size();i++){
+        //     if(j<2 || nums[i] != nums[j-2]){
+        //         nums[j]=nums[i];
+        //         j++;
+        //     }
+        // }
+        // return j;
+        int j = 0;
+
+        for (int x : nums) {
+            if (j < 2 || x != nums[j - 2]) {
+                nums[j] = x;
                 j++;
             }
         }
+
         return j;
     }
 };
+    
