@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -43,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
