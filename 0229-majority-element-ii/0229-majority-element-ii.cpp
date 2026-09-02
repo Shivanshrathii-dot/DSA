@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        vector<int>v;
-       map<int,int >mp;
+       vector<int>v;
+       unordered_map<int,int >mp;
         for(auto x:nums){
             mp[x]++;
         }
