@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Shivanshrathii-dot/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
 ## Quicksort
 |  |
 | ------- |
@@ -77,4 +79,16 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
