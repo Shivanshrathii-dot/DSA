@@ -22,6 +22,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivanshrathii-dot/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Shivanshrathii-dot/DSA/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/Shivanshrathii-dot/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivanshrathii-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Shivanshrathii-dot/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
