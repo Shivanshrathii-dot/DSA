@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -67,17 +69,20 @@
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Shivanshrathii-dot/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
