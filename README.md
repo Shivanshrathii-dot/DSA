@@ -39,6 +39,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Shivanshrathii-dot/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Shivanshrathii-dot/DSA/tree/master/2235-add-two-integers) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshrathii-dot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +72,7 @@
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshrathii-dot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
