@@ -32,6 +32,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -57,12 +58,14 @@
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshrathii-dot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
