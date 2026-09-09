@@ -18,6 +18,7 @@
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
+| [1470-shuffle-the-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Shivanshrathii-dot/DSA/tree/master/1550-three-consecutive-odds) |
