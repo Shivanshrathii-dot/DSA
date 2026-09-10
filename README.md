@@ -40,6 +40,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivanshrathii-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0048-rotate-image](https://github.com/Shivanshrathii-dot/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Shivanshrathii-dot/DSA/tree/master/2235-add-two-integers) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
