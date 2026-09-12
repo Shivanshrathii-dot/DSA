@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/Shivanshrathii-dot/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Shivanshrathii-dot/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0728-self-dividing-numbers) |
@@ -92,6 +94,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivanshrathii-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
