@@ -19,6 +19,7 @@
 | [0260-single-number-iii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -94,6 +95,7 @@
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
 ## Quicksort
