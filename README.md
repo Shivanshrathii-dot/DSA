@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shivanshrathii-dot/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shivanshrathii-dot/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
