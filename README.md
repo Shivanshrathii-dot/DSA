@@ -52,6 +52,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Shivanshrathii-dot/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shivanshrathii-dot/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Shivanshrathii-dot/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
@@ -174,6 +175,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shivanshrathii-dot/DSA/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
