@@ -57,6 +57,7 @@
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Shivanshrathii-dot/DSA/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
