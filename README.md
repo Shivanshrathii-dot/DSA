@@ -28,6 +28,7 @@
 | [1550-three-consecutive-odds](https://github.com/Shivanshrathii-dot/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Shivanshrathii-dot/DSA/tree/master/1672-richest-customer-wealth) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshrathii-dot/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
@@ -75,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
