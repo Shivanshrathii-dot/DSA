@@ -102,6 +102,7 @@
 | [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -189,6 +190,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Geometry
 |  |
 | ------- |
