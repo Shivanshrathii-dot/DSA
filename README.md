@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivanshrathii-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -58,6 +59,7 @@
 | [0189-rotate-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivanshrathii-dot/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshrathii-dot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
 |  |
