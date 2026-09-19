@@ -27,6 +27,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Shivanshrathii-dot/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Shivanshrathii-dot/DSA/tree/master/1672-richest-customer-wealth) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Shivanshrathii-dot/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivanshrathii-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -112,6 +114,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
