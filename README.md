@@ -31,6 +31,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Shivanshrathii-dot/DSA/tree/master/1550-three-consecutive-odds) |
+| [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Shivanshrathii-dot/DSA/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -198,6 +199,7 @@
 | [0344-reverse-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -262,6 +264,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivanshrathii-dot/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
