@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshrathii-dot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Shivanshrathii-dot/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
