@@ -27,6 +27,7 @@
 | [0704-binary-search](https://github.com/Shivanshrathii-dot/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shivanshrathii-dot/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/1470-shuffle-the-array) |
@@ -155,6 +156,7 @@
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
@@ -176,10 +178,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -197,6 +201,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Shivanshrathii-dot/DSA/tree/master/1051-height-checker) |
 ## String
 |  |
@@ -266,6 +271,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -277,8 +283,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
