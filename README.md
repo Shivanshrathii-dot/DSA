@@ -122,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivanshrathii-dot/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivanshrathii-dot/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshrathii-dot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shivanshrathii-dot/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shivanshrathii-dot/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -310,4 +312,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivanshrathii-dot/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivanshrathii-dot/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
