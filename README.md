@@ -102,6 +102,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Shivanshrathii-dot/DSA/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Shivanshrathii-dot/DSA/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -230,6 +232,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Shivanshrathii-dot/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
