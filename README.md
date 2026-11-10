@@ -42,6 +42,7 @@
 | [1550-three-consecutive-odds](https://github.com/Shivanshrathii-dot/DSA/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Shivanshrathii-dot/DSA/tree/master/1672-richest-customer-wealth) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivanshrathii-dot/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivanshrathii-dot/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -147,6 +148,7 @@
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivanshrathii-dot/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/Shivanshrathii-dot/DSA/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -165,6 +167,7 @@
 | [0704-binary-search](https://github.com/Shivanshrathii-dot/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shivanshrathii-dot/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivanshrathii-dot/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
