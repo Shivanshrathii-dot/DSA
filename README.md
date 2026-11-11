@@ -87,6 +87,7 @@
 | [0728-self-dividing-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shivanshrathii-dot/DSA/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Shivanshrathii-dot/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Shivanshrathii-dot/DSA/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Shivanshrathii-dot/DSA/tree/master/2652-sum-multiples) |
