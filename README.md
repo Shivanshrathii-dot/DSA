@@ -47,6 +47,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2963-count-the-number-of-good-partitions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshrathii-dot/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
@@ -91,6 +92,7 @@
 | [2235-add-two-integers](https://github.com/Shivanshrathii-dot/DSA/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Shivanshrathii-dot/DSA/tree/master/2652-sum-multiples) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2963-count-the-number-of-good-partitions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshrathii-dot/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shivanshrathii-dot/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivanshrathii-dot/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -110,6 +112,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shivanshrathii-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivanshrathii-dot/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2963-count-the-number-of-good-partitions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Shivanshrathii-dot/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -335,4 +338,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shivanshrathii-dot/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
