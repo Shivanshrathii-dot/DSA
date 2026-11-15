@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Shivanshrathii-dot/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shivanshrathii-dot/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shivanshrathii-dot/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
@@ -137,6 +138,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivanshrathii-dot/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shivanshrathii-dot/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -313,6 +315,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivanshrathii-dot/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
@@ -334,6 +337,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshrathii-dot/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -347,4 +351,8 @@
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2963-count-the-number-of-good-partitions) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
