@@ -157,6 +157,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Shivanshrathii-dot/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -252,6 +253,7 @@
 | [0344-reverse-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shivanshrathii-dot/DSA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Shivanshrathii-dot/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshrathii-dot/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Shivanshrathii-dot/DSA/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
