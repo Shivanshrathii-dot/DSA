@@ -158,6 +158,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shivanshrathii-dot/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Shivanshrathii-dot/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shivanshrathii-dot/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -255,6 +256,7 @@
 | [0383-ransom-note](https://github.com/Shivanshrathii-dot/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Shivanshrathii-dot/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Shivanshrathii-dot/DSA/tree/master/0443-string-compression) |
 | [1544-make-the-string-great](https://github.com/Shivanshrathii-dot/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Shivanshrathii-dot/DSA/tree/master/1598-crawler-log-folder) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivanshrathii-dot/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
