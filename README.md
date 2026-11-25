@@ -302,6 +302,7 @@
 | [0002-add-two-numbers](https://github.com/Shivanshrathii-dot/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanshrathii-dot/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Shivanshrathii-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shivanshrathii-dot/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shivanshrathii-dot/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivanshrathii-dot/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shivanshrathii-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Stack
@@ -340,6 +342,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivanshrathii-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
@@ -349,6 +352,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivanshrathii-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -373,4 +377,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivanshrathii-dot/DSA/tree/master/0042-trapping-rain-water) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivanshrathii-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
