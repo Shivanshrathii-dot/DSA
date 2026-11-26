@@ -76,6 +76,7 @@
 | [0412-fizz-buzz](https://github.com/Shivanshrathii-dot/DSA/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivanshrathii-dot/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanshrathii-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/Shivanshrathii-dot/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivanshrathii-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivanshrathii-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -99,6 +100,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivanshrathii-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Shivanshrathii-dot/DSA/tree/master/2652-sum-multiples) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Shivanshrathii-dot/DSA/tree/master/2963-count-the-number-of-good-partitions) |
+| [3360-stone-removal-game](https://github.com/Shivanshrathii-dot/DSA/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshrathii-dot/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shivanshrathii-dot/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivanshrathii-dot/DSA/tree/master/3875-construct-uniform-parity-array-i) |
